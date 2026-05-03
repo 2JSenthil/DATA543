@@ -1,4 +1,4 @@
-(pdf is more legible)
+(pdf is more legible - DATA 543 Project Report)
 
 **Credit Card Fraud Risk Assessment Using Machine Learning**  
 
@@ -28,9 +28,9 @@ Identify patterns linked to fraud
 **Data Description**
 **Data Sources**
 The first data source is used for our risk and ML analysis. It is called Credit Card Fraud 2025. It is five thousand credit card transactions in 2025 gathered by Data Analyst Prince Rajak for Machine Learning application. He has created over 90 different datasets to be used for competition and machine learning applications and 8.82 usability, so we decided it was one of the stronger datasets found on Kaggle. The data is certain around time, geography and transaction logistics.
- https://www.kaggle.com/datasets/prince7489/credit-card-fraud-2025 
+ (https://www.kaggle.com/datasets/prince7489/credit-card-fraud-2025) 
 The second data source was called Credit Card Fraud Detection by the Wordline and Université Libre de Bruxelles ML group. The data is two hundred eighty thousand transactions from Europe in the earlier part of this decade. The data is mostly anonymized, so we wanted to use this by deciding a model to use without the bias of context. However, it was ultimately used for our exploration of the GANs model.
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
+(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) 
 **Features**
 Credit Card Fraud 2025: In terms of contextual data, features include Transaction Date, Country and International Transactions. In terms of logistics, we have the amount, merchant, merchant category, type of card, transaction type (Online, Atm, etc.). We also have the fraud indicator, transaction id, and customer id.
 Credit Card Fraud Detection: Most of the data is reduced and anonymized through Principal Component Analysis. The features then are the time of the transaction, the amount, the fraud indication, and twenty-eight anonymized variables. 
