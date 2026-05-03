@@ -1,7 +1,9 @@
 (pdf is more legible)
 
-**Credit Card Fraud Risk Assessment Using Machine Learning**
-DATA 543
+**Credit Card Fraud Risk Assessment Using Machine Learning**  
+
+DATA 543  
+
 Mihir Harshe, Joshua Senthil, Yanqing Su
 
 **Abstract**
